@@ -10239,3 +10239,10 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
+@media (max-width: 900px) {
+  .port-item {
+    border: 1px solid black;
+  }
+
+}
